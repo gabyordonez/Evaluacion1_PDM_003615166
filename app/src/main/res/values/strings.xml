@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Corto1</string>
+    <string name="admin_titutlo">Contador de productos</string>
+    <string name="texto_base">#</string>
+    <string name="text_producto_1">Producto 1</string>
+    <string name="text_producto_2">Producto 2</string>
+    <string name="text_producto_3">Producto 3</string>
+    <string name="text_producto_4">Producto 4</string>
+    <string name="text_producto_5">Producto 5</string>
+    <string name="text_producto_6">Producto 6</string>
+    <string name="text_producto_7">Producto 7</string>
+    <string name="text_producto_8">Producto 8</string>
+    <string name="text_producto_9">Producto 9</string>
+</resources>
